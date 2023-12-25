@@ -2,9 +2,9 @@
  Implementações de arvores de dados
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](DiagClasses.png)
 
-
+DiagClasses.png
 # Autor
 
 Thomas Neuenschwander
