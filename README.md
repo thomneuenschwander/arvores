@@ -4,7 +4,6 @@
 ## Modelo conceitual
 ![Modelo Conceitual](DiagClasses.png)
 
-DiagClasses.png
 # Autor
 
 Thomas Neuenschwander
